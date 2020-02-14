@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Azo Sans", sans-serif;
+    font-family: azo-sans-web, sans-serif;
     /*font-family: "Comfortaa", cursive;*/
 }
 
@@ -18,7 +18,7 @@ green-2 #2BA756
 green-3 #2B5A41
 black #383C40
 white #D5D6D7
-body "Azo Sans", sans-serif;
+body azo-sans-web, sans-serif;
 logo "Comfortaa", cursive;
 */
 
@@ -268,7 +268,7 @@ textarea {
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
-    font-family: "Azo Sans", sans-serif;
+    font-family: azo-sans-web, sans-serif;
     color: #383C40;
 }
 
@@ -334,7 +334,7 @@ a.li:active {
 }
 
 .footer-text {
-    font-family: "Azo Sans", sans-serif;
+    font-family: azo-sans-web, sans-serif;
     font-weight: 350;
     font-size: 10px;
     color: white;
