@@ -353,7 +353,7 @@ a.li:active {
 
 /*RESPONSIVE*/
 /* Mobile Styles */
-@media screen and (min-width: 300px) and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .topnav-logo {
         height: 40px;
     }
