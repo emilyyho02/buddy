@@ -58,8 +58,7 @@ logo "Comfortaa", cursive;
 
 .topnav-logo {
     grid-column: 3 / 5;
-    grid-row: 2 / 4;
-    padding: 5% 0%;
+    grid-row: 1 / 4;
 }
 
 .topnav-logo img {
@@ -344,7 +343,8 @@ a.li:active {
 /* Mobile Styles */
 @media screen and (min-width: 0px) and (max-width: 600px) {
     .topnav-logo {
-        height: 40px;
+        height: 50px;
+        padding: 10% 0%;
     }
 
     .topnav a.icon {
@@ -474,6 +474,7 @@ a.li:active {
 @media only screen and (min-width: 600px) and (max-width: 900px) {
     .topnav-logo {
         height: 50px;
+        padding: 5% 0%;
     }
 
     .topnav a.icon {
@@ -542,10 +543,6 @@ a.li:active {
         margin-top: 1em;
     }
 
-    .margin-top {
-        margin-top: 1.5em;
-    }
-
     /*HOW TO*/
     .block-four {
         grid-column: 1 / 3;
@@ -603,6 +600,7 @@ a.li:active {
 @media only screen and (min-width: 900px) {
     .topnav-logo {
         height: 75px;
+        padding: 5% 0%;
         margin-top: -10px;
     }
 
@@ -674,10 +672,6 @@ a.li:active {
 
     .block-two {
         margin-top: 1em;
-    }
-
-    .margin-top {
-        margin-top: 1.5em;
     }
 
     /*HOW TO*/
