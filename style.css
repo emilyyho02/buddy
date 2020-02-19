@@ -58,7 +58,7 @@ logo "Comfortaa", cursive;
 
 .topnav-logo {
     grid-column: 3 / 5;
-    grid-row: 1 / 4;
+    grid-row: 2 / 3;
 }
 
 .topnav-logo img {
